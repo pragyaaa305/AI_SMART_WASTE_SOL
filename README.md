@@ -1,4 +1,4 @@
-#🗑️ AI Smart Waste Segregation Dustbin — Project Description
+🗑️ #AI Smart Waste Segregation Dustbin — Project Description
 
 The AI Smart Waste Segregation Dustbin is an intelligent, automated waste-management system designed to make disposal cleaner, faster, and more sustainable. Using a combination of Artificial Intelligence, image recognition, and smart sensors, the dustbin can automatically detect, classify, and segregate waste into biodegradable and non-biodegradable compartments — without any human effort.
 
